@@ -1,0 +1,652 @@
+#EXTM3U
+#EXTINF:-1,     List-Iptv.com      Sky Sport 1 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/378.ts
+#EXTINF:-1,     List-Iptv.com      Sky Sport 2 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/379.ts
+#EXTINF:-1,     List-Iptv.com      Sky Sport 3 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/380.ts
+#EXTINF:-1,     List-Iptv.com      Sky Sport F1 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/382.ts
+#EXTINF:-1,     List-Iptv.com      Sky Sport MotoGP HD
+http://iptv.freecamtv.com:8000/live/959595/959595/383.ts
+#EXTINF:-1,     List-Iptv.com      Sky Sports 24 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/381.ts
+#EXTINF:-1,     List-Iptv.com      Sky Super Tennis
+http://iptv.freecamtv.com:8000/live/959595/959595/384.ts
+#EXTINF:-1,     List-Iptv.com      Fox Sports (IT)
+http://iptv.freecamtv.com:8000/live/959595/959595/420.ts
+#EXTINF:-1,     List-Iptv.com      Sky Uno HD
+http://iptv.freecamtv.com:8000/live/959595/959595/448.ts
+#EXTINF:-1,     List-Iptv.com      Eurosport  HD IT
+http://iptv.freecamtv.com:8000/live/959595/959595/562.ts
+#EXTINF:-1,     List-Iptv.com      Eurosport  2 HD IT
+http://iptv.freecamtv.com:8000/live/959595/959595/563.ts
+#EXTINF:-1,     List-Iptv.com      Rai Sport 1
+http://iptv.freecamtv.com:8000/live/959595/959595/391.ts
+#EXTINF:-1,     List-Iptv.com      Rai Sport 2
+http://iptv.freecamtv.com:8000/live/959595/959595/392.ts
+#EXTINF:-1,     List-Iptv.com      Super_Tennis
+http://iptv.freecamtv.com:8000/live/959595/959595/470.ts
+#EXTINF:-1,     List-Iptv.com      Sport Italia
+http://iptv.freecamtv.com:8000/live/959595/959595/389.ts
+#EXTINF:-1,     List-Iptv.com      MILAN CH
+http://iptv.freecamtv.com:8000/live/959595/959595/387.ts
+#EXTINF:-1,     List-Iptv.com      Lazio channel
+http://iptv.freecamtv.com:8000/live/959595/959595/388.ts
+#EXTINF:-1,     List-Iptv.com      JUVE CH
+http://iptv.freecamtv.com:8000/live/959595/959595/386.ts
+#EXTINF:-1,     List-Iptv.com      Inter Channel
+http://iptv.freecamtv.com:8000/live/959595/959595/385.ts
+#EXTINF:-1,     List-Iptv.com      Premium Sport 1 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/421.ts
+#EXTINF:-1,     List-Iptv.com      Premium Sport 2
+http://iptv.freecamtv.com:8000/live/959595/959595/1913.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.1-HD
+http://iptv.freecamtv.com:8000/live/959595/959595/294.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 1-HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1674.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 1 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1675.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 2 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1676.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.2 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/295.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.2-HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1677.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 3 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/296.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.3-HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1678.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.3 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1679.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 4 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/297.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.4-HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1680.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.4 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1681.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 5 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/298.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.5-HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1682.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS.5 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1683.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 6 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/299.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 7 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/300.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 8 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/301.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 9 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/302.ts
+#EXTINF:-1,     List-Iptv.com      BEINSPORTS 10 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/309.ts
+#EXTINF:-1,     List-Iptv.com      Ar - Bein Sport 11 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/308.ts
+#EXTINF:-1,     List-Iptv.com      Ar - Bein Sport 12 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/307.ts
+#EXTINF:-1,     List-Iptv.com      DE:Sky Sport 1 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/662.ts
+#EXTINF:-1,     List-Iptv.com      DE: SKY SPORT 2 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/680.ts
+#EXTINF:-1,     List-Iptv.com      DE: SKY SPORT 3 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/783.ts
+#EXTINF:-1,     List-Iptv.com      DE: Sky Sport 1 US HD
+http://iptv.freecamtv.com:8000/live/959595/959595/699.ts
+#EXTINF:-1,     List-Iptv.com      FR: Equidia HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1672.ts
+#EXTINF:-1,     List-Iptv.com      FR: Canal+Sport
+http://iptv.freecamtv.com:8000/live/959595/959595/528.ts
+#EXTINF:-1,     List-Iptv.com      FR: MONACO INFOS
+http://iptv.freecamtv.com:8000/live/959595/959595/83.ts
+#EXTINF:-1,     List-Iptv.com      FR : Ma Chaine Sport
+http://iptv.freecamtv.com:8000/live/959595/959595/553.ts
+#EXTINF:-1,     List-Iptv.com      FR: Eurosport2
+http://iptv.freecamtv.com:8000/live/959595/959595/526.ts
+#EXTINF:-1,     List-Iptv.com      FR: Foot+24/24
+http://iptv.freecamtv.com:8000/live/959595/959595/1641.ts
+#EXTINF:-1,     List-Iptv.com      FR : INFOSPORT+
+http://iptv.freecamtv.com:8000/live/959595/959595/554.ts
+#EXTINF:-1,     List-Iptv.com      FR: Eurosport
+http://iptv.freecamtv.com:8000/live/959595/959595/61.ts
+#EXTINF:-1,     List-Iptv.com      FR: EUROSPORT 1
+http://iptv.freecamtv.com:8000/live/959595/959595/14.ts
+#EXTINF:-1,     List-Iptv.com      FR: Euronews
+http://iptv.freecamtv.com:8000/live/959595/959595/156.ts
+#EXTINF:-1,     List-Iptv.com      FR : beinsport 1
+http://iptv.freecamtv.com:8000/live/959595/959595/342.ts
+#EXTINF:-1,     List-Iptv.com      FR : beinsport 2
+http://iptv.freecamtv.com:8000/live/959595/959595/341.ts
+#EXTINF:-1,     List-Iptv.com      FR : beinsport 3
+http://iptv.freecamtv.com:8000/live/959595/959595/340.ts
+#EXTINF:-1,     List-Iptv.com      FR : BeinSport Max 4
+http://iptv.freecamtv.com:8000/live/959595/959595/620.ts
+#EXTINF:-1,     List-Iptv.com      FR : BeinSport Max 5
+http://iptv.freecamtv.com:8000/live/959595/959595/621.ts
+#EXTINF:-1,     List-Iptv.com      FR : BeinSport Max 6
+http://iptv.freecamtv.com:8000/live/959595/959595/622.ts
+#EXTINF:-1,     List-Iptv.com      FR : BeinSport Max 7
+http://iptv.freecamtv.com:8000/live/959595/959595/623.ts
+#EXTINF:-1,     List-Iptv.com      FR : BeinSport Max 8
+http://iptv.freecamtv.com:8000/live/959595/959595/624.ts
+#EXTINF:-1,     List-Iptv.com      UK: Sky Sports 1 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1752.ts
+#EXTINF:-1,     List-Iptv.com      UK: Sky Sports 2 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1753.ts
+#EXTINF:-1,     List-Iptv.com      UK: Sky Sports 3 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1754.ts
+#EXTINF:-1,     List-Iptv.com      UK: Sky Sports 4 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1755.ts
+#EXTINF:-1,     List-Iptv.com      UK: Sky Sports 5 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1756.ts
+#EXTINF:-1,     List-Iptv.com      UK: Sky Sports F1 HD
+http://iptv.freecamtv.com:8000/live/959595/959595/1757.ts
+#EXTINF:-1,     List-Iptv.com      UK: Sky Sports News
+http://iptv.freecamtv.com:8000/live/959595/959595/1763.ts
+#EXTINF:-1,     List-Iptv.com      UK: Eurosport 1
+http://iptv.freecamtv.com:8000/live/959595/959595/1764.ts
+#EXTINF:-1,     List-Iptv.com      UK: Eurosport 2
+http://iptv.freecamtv.com:8000/live/959595/959595/1765.ts
+#EXTINF:-1,     List-Iptv.com      UK: Racing
+http://iptv.freecamtv.com:8000/live/959595/959595/1768.ts
+#EXTINF:-1,     List-Iptv.com      UK: ESPN
+http://iptv.freecamtv.com:8000/live/959595/959595/1766.ts
+#EXTINF:-1,     List-Iptv.com      UK: Chelsea FC
+http://iptv.freecamtv.com:8000/live/959595/959595/1767.ts
+
+#EXTINF:-1,     List-Iptv.com      beIN_Max1_512
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/683.ts
+#EXTINF:-1,     List-Iptv.com      beIN_Max2_512
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/682.ts
+#EXTINF:-1,     List-Iptv.com      BeIN_Sport_MAX 1_World_Cup(1MB)
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1769.ts
+#EXTINF:-1,     List-Iptv.com      BeIN_Sport_MAX 2_World_Cup(1MB)
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1770.ts
+#EXTINF:-1,     List-Iptv.com      BeIN_Sport_MAX 1_World_Cup (2M)
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1761.ts
+#EXTINF:-1,     List-Iptv.com      BeIN_Sport_MAX 2_World_Cup (2M)
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1762.ts
+#EXTINF:-1,     List-Iptv.com      beIN-Max1
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1053.ts
+#EXTINF:-1,     List-Iptv.com      beIN-Max2
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1052.ts
+#EXTINF:-1,     List-Iptv.com      BeIN_Sport_MAX 1_World_Cup
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1771.ts
+#EXTINF:-1,     List-Iptv.com      BeIN_Sport_MAX 2_World_Cup
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1772.ts
+#EXTINF:-1,     List-Iptv.com      beIN_Max1_512(HIGH)
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1776.ts
+#EXTINF:-1,     List-Iptv.com      beIN_Max1_512LOW
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1773.ts
+#EXTINF:-1,     List-Iptv.com      beIN_Max2_512HIGH
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1775.ts
+#EXTINF:-1,     List-Iptv.com      beIN_Max2_512LOW
+http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1774.ts
+
+#EXTINF:-1,     List-Iptv.com      AR | beIN Sports Max World Cup 1 HD
+http://iptv-area-51.tv:2095/live/0456/0456/12418.ts
+#EXTINF:-1,     List-Iptv.com      AR | beIN Sports Max World Cup 2 HD
+http://iptv-area-51.tv:2095/live/0456/0456/12417.ts
+#EXTINF:-1,     List-Iptv.com      AR | OSN Sports Cricket HD AE
+http://iptv-area-51.tv:2095/live/0456/0456/11804.ts
+#EXTINF:-1,     List-Iptv.com      AR | OSN Sports 4 HD
+http://iptv-area-51.tv:2095/live/0456/0456/11807.ts
+#EXTINF:-1,     List-Iptv.com      AR | OSN Sports 3 HD AE*
+http://iptv-area-51.tv:2095/live/0456/0456/11808.ts
+#EXTINF:-1,     List-Iptv.com      AR | OSN Sports 2 HD AE
+http://iptv-area-51.tv:2095/live/0456/0456/11809.ts
+#EXTINF:-1,     List-Iptv.com      AR | OSN Sports 1 HD AE
+http://iptv-area-51.tv:2095/live/0456/0456/11810.ts
+#EXTINF:-1,     List-Iptv.com      ES | Bein Sports La Liga
+http://iptv-area-51.tv:2095/live/0456/0456/9377.ts
+#EXTINF:-1,     List-Iptv.com      ES |  Bein Sport Espana
+http://iptv-area-51.tv:2095/live/0456/0456/7318.ts
+#EXTINF:-1,     List-Iptv.com      AR | OSN Fight Network HD AE
+http://iptv-area-51.tv:2095/live/0456/0456/11847.ts
+#EXTINF:-1,     List-Iptv.com      IN | ADSport2 HD
+http://iptv-area-51.tv:2095/live/0456/0456/8351.ts
+#EXTINF:-1,     List-Iptv.com      IN | ADSport1 HD
+http://iptv-area-51.tv:2095/live/0456/0456/8350.ts
+#EXTINF:-1,     List-Iptv.com      AR | MBC Pro Sport 1 AE
+http://iptv-area-51.tv:2095/live/0456/0456/11966.ts
+#EXTINF:-1,     List-Iptv.com      PL | Extreme Sports HD 1080
+http://iptv-area-51.tv:2095/live/0456/0456/10748.ts
+#EXTINF:-1,     List-Iptv.com      PL | Eurosport 2
+http://iptv-area-51.tv:2095/live/0456/0456/10750.ts
+#EXTINF:-1,     List-Iptv.com      PL | Eurosport 1 HD 1080P
+http://iptv-area-51.tv:2095/live/0456/0456/10751.ts
+#EXTINF:-1,     List-Iptv.com      PL | Eurosport 1 HD
+http://iptv-area-51.tv:2095/live/0456/0456/10752.ts
+#EXTINF:-1,     List-Iptv.com      PL | Canal Sports 2
+http://iptv-area-51.tv:2095/live/0456/0456/10768.ts
+#EXTINF:-1,     List-Iptv.com      PL | Canal Sport HD 1080P
+http://iptv-area-51.tv:2095/live/0456/0456/10769.ts
+#EXTINF:-1,     List-Iptv.com      NL | Ziggo Sport Voetbal
+http://iptv-area-51.tv:2095/live/0456/0456/8553.ts
+#EXTINF:-1,     List-Iptv.com      NL | Ziggo Sport Select
+http://iptv-area-51.tv:2095/live/0456/0456/8554.ts
+#EXTINF:-1,     List-Iptv.com      NL | Ziggo Sport Racing
+http://iptv-area-51.tv:2095/live/0456/0456/8555.ts
+#EXTINF:-1,     List-Iptv.com      NL | Ziggo Sport Extra 2
+http://iptv-area-51.tv:2095/live/0456/0456/8556.ts
+#EXTINF:-1,     List-Iptv.com      NL | Ziggo Sport Extra 1
+http://iptv-area-51.tv:2095/live/0456/0456/8557.ts
+#EXTINF:-1,     List-Iptv.com      NL | Fox Sports 6
+http://iptv-area-51.tv:2095/live/0456/0456/8546.ts
+#EXTINF:-1,     List-Iptv.com      NL | FOX Channel NL
+http://iptv-area-51.tv:2095/live/0456/0456/8548.ts
+#EXTINF:-1,     List-Iptv.com      NL | Ziggo Sp0rt Golf
+http://iptv-area-51.tv:2095/live/0456/0456/12115.ts
+#EXTINF:-1,     List-Iptv.com      PL | TVP Sport HD
+http://iptv-area-51.tv:2095/live/0456/0456/10699.ts
+#EXTINF:-1,     List-Iptv.com      PL | TVP Sport HD 1080P
+http://iptv-area-51.tv:2095/live/0456/0456/10698.ts
+#EXTINF:-1,     List-Iptv.com      Sports | WWE NETWORK
+http://iptv-area-51.tv:2095/live/0456/0456/4246.ts
+#EXTINF:-1,     List-Iptv.com      Sports | UFC TV
+http://iptv-area-51.tv:2095/live/0456/0456/5900.ts
+#EXTINF:-1,     List-Iptv.com      Sports | UFC TV HD
+http://iptv-area-51.tv:2095/live/0456/0456/12403.ts
+#EXTINF:-1,     List-Iptv.com      UK | BT Sports 1
+http://iptv-area-51.tv:2095/live/0456/0456/3987.ts
+#EXTINF:-1,     List-Iptv.com      UK | BT Sports 2
+http://iptv-area-51.tv:2095/live/0456/0456/7632.ts
+#EXTINF:-1,     List-Iptv.com      UK | BT Sports 3
+http://iptv-area-51.tv:2095/live/0456/0456/4213.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 01
+http://iptv-area-51.tv:2095/live/0456/0456/3464.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 02
+http://iptv-area-51.tv:2095/live/0456/0456/3469.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 03
+http://iptv-area-51.tv:2095/live/0456/0456/3458.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 04
+http://iptv-area-51.tv:2095/live/0456/0456/8162.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 05
+http://iptv-area-51.tv:2095/live/0456/0456/8161.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 06
+http://iptv-area-51.tv:2095/live/0456/0456/8160.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 07
+http://iptv-area-51.tv:2095/live/0456/0456/8159.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 08
+http://iptv-area-51.tv:2095/live/0456/0456/8158.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 09
+http://iptv-area-51.tv:2095/live/0456/0456/8157.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 10
+http://iptv-area-51.tv:2095/live/0456/0456/8156.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 11
+http://iptv-area-51.tv:2095/live/0456/0456/8155.ts
+#EXTINF:-1,     List-Iptv.com      UK | Bein Sport 12
+http://iptv-area-51.tv:2095/live/0456/0456/8154.ts
+#EXTINF:-1,     List-Iptv.com      UK | Sky Sports Football
+http://iptv-area-51.tv:2095/live/0456/0456/8101.ts
+#EXTINF:-1,     List-Iptv.com      UK | Sky Sports Golf
+http://iptv-area-51.tv:2095/live/0456/0456/8103.ts
+#EXTINF:-1,     List-Iptv.com      UK | Quest TV
+http://iptv-area-51.tv:2095/live/0456/0456/7733.ts
+#EXTINF:-1,     List-Iptv.com      UK | Sky Sports Main Event
+http://iptv-area-51.tv:2095/live/0456/0456/7360.ts
+#EXTINF:-1,     List-Iptv.com      UK | Sky Sports Mix
+http://iptv-area-51.tv:2095/live/0456/0456/8354.ts
+#EXTINF:-1,     List-Iptv.com      UK | Sky Sports News
+http://iptv-area-51.tv:2095/live/0456/0456/8353.ts
+#EXTINF:-1,     List-Iptv.com      UK | Sky Sports Premier League
+http://iptv-area-51.tv:2095/live/0456/0456/7361.ts
+
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 1 FHD ARB
+http://clientportal.link:80/live/Petko/123456/22157.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 1 HD ARB
+http://clientportal.link:80/live/Petko/123456/22158.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 1 SD ARB
+http://clientportal.link:80/live/Petko/123456/22159.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 2 FHD ARB
+http://clientportal.link:80/live/Petko/123456/22160.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 2 HD ARB
+http://clientportal.link:80/live/Petko/123456/22161.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 2 SD ARB
+http://clientportal.link:80/live/Petko/123456/22162.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 3 FHD ARB
+http://clientportal.link:80/live/Petko/123456/22163.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 3 HD ARB
+http://clientportal.link:80/live/Petko/123456/22164.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 3 SD ARB
+http://clientportal.link:80/live/Petko/123456/22165.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 4 FHD ARB
+http://clientportal.link:80/live/Petko/123456/22166.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 4 HD ARB
+http://clientportal.link:80/live/Petko/123456/22167.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 4 SD ARB
+http://clientportal.link:80/live/Petko/123456/22168.ts
+#EXTINF:-1,     List-Iptv.com      OSN WWE Network HD AE
+http://clientportal.link:80/live/Petko/123456/16403.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 1 HD AL
+http://clientportal.link:80/live/Petko/123456/4198.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 2 HD AL
+http://clientportal.link:80/live/Petko/123456/4199.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 3 HD AL
+http://clientportal.link:80/live/Petko/123456/4200.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 4 HD AL
+http://clientportal.link:80/live/Petko/123456/4201.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 5 HD AL
+http://clientportal.link:80/live/Petko/123456/9373.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport Kosova 1 AL
+http://clientportal.link:80/live/Petko/123456/3822.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport Kosova 2 AL
+http://clientportal.link:80/live/Petko/123456/3823.ts
+#EXTINF:-1,     List-Iptv.com      Tring Sport News HD AL
+http://clientportal.link:80/live/Petko/123456/8077.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 1 FHD AL
+http://clientportal.link:80/live/Petko/123456/22807.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 2 FHD AL
+http://clientportal.link:80/live/Petko/123456/22808.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 3 FHD AL
+http://clientportal.link:80/live/Petko/123456/22809.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 4 FHD AL
+http://clientportal.link:80/live/Petko/123456/22810.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 5 FHD AL
+http://clientportal.link:80/live/Petko/123456/22811.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 6 FHD AL
+http://clientportal.link:80/live/Petko/123456/22812.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport 7 FHD AL
+http://clientportal.link:80/live/Petko/123456/22813.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport Kosova 1 FHD AL
+http://clientportal.link:80/live/Petko/123456/22804.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport Kosova 2 FHD AL
+http://clientportal.link:80/live/Petko/123456/22805.ts
+#EXTINF:-1,     List-Iptv.com      SuperSport Kosova 3 FHD AL
+http://clientportal.link:80/live/Petko/123456/22806.ts
+#EXTINF:-1,     List-Iptv.com      OSN Sports Cricket HD AE
+http://clientportal.link:80/live/Petko/123456/19957.ts
+#EXTINF:-1,     List-Iptv.com      OSN Sports 1 Action HD AE
+http://clientportal.link:80/live/Petko/123456/13728.ts
+#EXTINF:-1,     List-Iptv.com      OSN Sports 2 Action HD AE
+http://clientportal.link:80/live/Petko/123456/13729.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 FHD ARB
+http://clientportal.link:80/live/Petko/123456/18277.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 HD ARB
+http://clientportal.link:80/live/Petko/123456/14980.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 SD ARB
+http://clientportal.link:80/live/Petko/123456/14981.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 FHD ARB
+http://clientportal.link:80/live/Petko/123456/18278.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 HD ARB
+http://clientportal.link:80/live/Petko/123456/14982.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 SD ARB
+http://clientportal.link:80/live/Petko/123456/14983.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 FHD ARB
+http://clientportal.link:80/live/Petko/123456/18279.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 HD ARB
+http://clientportal.link:80/live/Petko/123456/14984.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 SD ARB
+http://clientportal.link:80/live/Petko/123456/14985.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 FHD ARB
+http://clientportal.link:80/live/Petko/123456/18280.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 HD ARB
+http://clientportal.link:80/live/Petko/123456/14986.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 SD ARB
+http://clientportal.link:80/live/Petko/123456/14987.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 5 FHD ARB
+http://clientportal.link:80/live/Petko/123456/18281.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 5 HD ARB
+http://clientportal.link:80/live/Petko/123456/14988.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 5 SD ARB
+http://clientportal.link:80/live/Petko/123456/14989.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 6 FHD ARB
+http://clientportal.link:80/live/Petko/123456/18282.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 6 HD ARB
+http://clientportal.link:80/live/Petko/123456/14990.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 6 SD ARB
+http://clientportal.link:80/live/Petko/123456/14991.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 7 FHD ARB
+http://clientportal.link:80/live/Petko/123456/18283.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 7 HD ARB
+http://clientportal.link:80/live/Petko/123456/14992.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 7 SD ARB
+http://clientportal.link:80/live/Petko/123456/14993.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 8 FHD ARB
+http://clientportal.link:80/live/Petko/123456/18284.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 8 HD ARB
+http://clientportal.link:80/live/Petko/123456/14994.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 8 SD ARB
+http://clientportal.link:80/live/Petko/123456/14995.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 9 HD ARB
+http://clientportal.link:80/live/Petko/123456/14996.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 9 SD ARB
+http://clientportal.link:80/live/Petko/123456/14997.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 10 HD ARB
+http://clientportal.link:80/live/Petko/123456/14998.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 10 SD ARB
+http://clientportal.link:80/live/Petko/123456/14999.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 11 FHD ARB
+http://clientportal.link:80/live/Petko/123456/15000.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 12 SD ARB
+http://clientportal.link:80/live/Petko/123456/15001.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 HD FR
+http://clientportal.link:80/live/Petko/123456/14977.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 FR
+http://clientportal.link:80/live/Petko/123456/5522.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 FHD FR
+http://clientportal.link:80/live/Petko/123456/14978.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 HD FR
+http://clientportal.link:80/live/Petko/123456/15637.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 FHD FR
+http://clientportal.link:80/live/Petko/123456/4477.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 HD FR
+http://clientportal.link:80/live/Petko/123456/14979.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 4 FHD FR
+http://clientportal.link:80/live/Petko/123456/18218.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 5 FHD FR
+http://clientportal.link:80/live/Petko/123456/18219.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 6 FHD FR
+http://clientportal.link:80/live/Petko/123456/18220.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 7 FHD FR
+http://clientportal.link:80/live/Petko/123456/18221.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 8 FHD FR
+http://clientportal.link:80/live/Petko/123456/18222.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 10 FHD FR
+http://clientportal.link:80/live/Petko/123456/18224.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 9 FHD FR
+http://clientportal.link:80/live/Petko/123456/18223.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 HD TR
+http://clientportal.link:80/live/Petko/123456/15719.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 HD TR
+http://clientportal.link:80/live/Petko/123456/15943.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 HD TR
+http://clientportal.link:80/live/Petko/123456/6413.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 HD TR
+http://clientportal.link:80/live/Petko/123456/6414.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 HD TR
+http://clientportal.link:80/live/Petko/123456/15721.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 HD TR
+http://clientportal.link:80/live/Petko/123456/15722.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 HD TR
+http://clientportal.link:80/live/Petko/123456/13665.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 FHD TR
+http://clientportal.link:80/live/Petko/123456/17739.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 FHD TR
+http://clientportal.link:80/live/Petko/123456/17740.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 FHD TR
+http://clientportal.link:80/live/Petko/123456/17741.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 FHD TR
+http://clientportal.link:80/live/Petko/123456/19038.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 1 HD  TR
+http://clientportal.link:80/live/Petko/123456/15723.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS HABER HD TR
+http://clientportal.link:80/live/Petko/123456/17896.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS ES
+http://clientportal.link:80/live/Petko/123456/9407.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS HD ES
+http://clientportal.link:80/live/Petko/123456/12729.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS Laliga HD ES
+http://clientportal.link:80/live/Petko/123456/12719.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 1 HD ES
+http://clientportal.link:80/live/Petko/123456/13662.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS MAX 2 HD ES
+http://clientportal.link:80/live/Petko/123456/13663.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS US
+http://clientportal.link:80/live/Petko/123456/9013.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS HD US
+http://clientportal.link:80/live/Petko/123456/15002.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 max  [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21945.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 max [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21946.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 max HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21947.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 1 HD HR
+http://clientportal.link:80/live/Petko/123456/17252.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 2 FHD HR
+http://clientportal.link:80/live/Petko/123456/17254.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 4 HR
+http://clientportal.link:80/live/Petko/123456/17249.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 5 HR
+http://clientportal.link:80/live/Petko/123456/17250.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 6 HR
+http://clientportal.link:80/live/Petko/123456/17251.ts
+#EXTINF:-1,     List-Iptv.com      Eurosport 1 RS
+http://clientportal.link:80/live/Petko/123456/1443.ts
+#EXTINF:-1,     List-Iptv.com      Eurosport 2 RS
+http://clientportal.link:80/live/Petko/123456/1444.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 2 FHD HR
+http://clientportal.link:80/live/Petko/123456/17914.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 3 HD HR
+http://clientportal.link:80/live/Petko/123456/17916.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 4 FHD HR
+http://clientportal.link:80/live/Petko/123456/17915.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 1 HR
+http://clientportal.link:80/live/Petko/123456/1436.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 2 HR
+http://clientportal.link:80/live/Petko/123456/1437.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 3 HR
+http://clientportal.link:80/live/Petko/123456/1438.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 4 HR
+http://clientportal.link:80/live/Petko/123456/1439.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 5 HR
+http://clientportal.link:80/live/Petko/123456/13827.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 6 HD HR
+http://clientportal.link:80/live/Petko/123456/13828.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 1 RS
+http://clientportal.link:80/live/Petko/123456/3182.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 2 HD RS
+http://clientportal.link:80/live/Petko/123456/3183.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 3 RS
+http://clientportal.link:80/live/Petko/123456/3184.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 4 RS
+http://clientportal.link:80/live/Petko/123456/3185.ts
+#EXTINF:-1,     List-Iptv.com      Arena Sport 5 RS
+http://clientportal.link:80/live/Petko/123456/3186.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 1 RS
+http://clientportal.link:80/live/Petko/123456/13832.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 2 HR
+http://clientportal.link:80/live/Petko/123456/13833.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 3 HR
+http://clientportal.link:80/live/Petko/123456/13834.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 4 RS
+http://clientportal.link:80/live/Petko/123456/13829.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 5 RS
+http://clientportal.link:80/live/Petko/123456/13830.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 6 RS
+http://clientportal.link:80/live/Petko/123456/13831.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 1 HD RS
+http://clientportal.link:80/live/Petko/123456/1440.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 2 RS
+http://clientportal.link:80/live/Petko/123456/1441.ts
+#EXTINF:-1,     List-Iptv.com      Sport Klub 3 HD RS
+http://clientportal.link:80/live/Petko/123456/1442.ts
+#EXTINF:-1,     List-Iptv.com      Canal+ Sport FHD FR
+http://clientportal.link:80/live/Petko/123456/2210.ts
+#EXTINF:-1,     List-Iptv.com      Canal+ Sport HD FR
+http://clientportal.link:80/live/Petko/123456/13149.ts
+#EXTINF:-1,     List-Iptv.com      Equidia Live HD FR
+http://clientportal.link:80/live/Petko/123456/13181.ts
+#EXTINF:-1,     List-Iptv.com      EuroNews English HD FR
+http://clientportal.link:80/live/Petko/123456/17301.ts
+#EXTINF:-1,     List-Iptv.com      Euronews FR
+http://clientportal.link:80/live/Petko/123456/3751.ts
+#EXTINF:-1,     List-Iptv.com      Eurosport 1 HD FR
+http://clientportal.link:80/live/Petko/123456/2013.ts
+#EXTINF:-1,     List-Iptv.com      Eurosport 2 HD FR
+http://clientportal.link:80/live/Petko/123456/7572.ts
+#EXTINF:-1,     List-Iptv.com      Extreme Sports Channel FR
+http://clientportal.link:80/live/Petko/123456/21904.ts
+#EXTINF:-1,     List-Iptv.com      Foot+ 24/24 HD FR
+http://clientportal.link:80/live/Petko/123456/17245.ts
+#EXTINF:-1,     List-Iptv.com      Infosport+ HD FR
+http://clientportal.link:80/live/Petko/123456/7571.ts
+#EXTINF:-1,     List-Iptv.com      L'Equipe 21 FR
+http://clientportal.link:80/live/Petko/123456/4468.ts
+#EXTINF:-1,     List-Iptv.com      SFR Sport 1 HD FR
+http://clientportal.link:80/live/Petko/123456/13182.ts
+#EXTINF:-1,     List-Iptv.com      SFR Sport 2 HD FR
+http://clientportal.link:80/live/Petko/123456/2251.ts
+#EXTINF:-1,     List-Iptv.com      SFR Sport 3 HD FR
+http://clientportal.link:80/live/Petko/123456/21522.ts
+#EXTINF:-1,     List-Iptv.com      SFR Sport 4 HD FR
+http://clientportal.link:80/live/Petko/123456/13148.ts
+#EXTINF:-1,     List-Iptv.com      SFR Sport 5 HD FR
+http://clientportal.link:80/live/Petko/123456/13151.ts
+#EXTINF:-1,     List-Iptv.com      OTE Sport 1 GR
+http://clientportal.link:80/live/Petko/123456/18240.ts
+#EXTINF:-1,     List-Iptv.com      OTE Sport 2 GR
+http://clientportal.link:80/live/Petko/123456/18241.ts
+#EXTINF:-1,     List-Iptv.com      OTE Sport 3 GR
+http://clientportal.link:80/live/Petko/123456/18242.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21934.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21916.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21924.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21917.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21925.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 2 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21935.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21918.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21926.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 3 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21936.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21919.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21927.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 4 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21937.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 5 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21920.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 5 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21928.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 5 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21938.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 6 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21921.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 6 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21929.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 6 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21939.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 7 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21922.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 7 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21930.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 7 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21940.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 8 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21923.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 8 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21931.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 8 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21941.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 9 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21932.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 9 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21942.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 10 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21933.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 10 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21943.ts
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 12 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21944.ts
+#EXTINF:-1,     List-Iptv.com      Algérie 3 (Thalitha TV) DZ
+http://clientportal.link:80/live/Petko/123456/21950.ts
